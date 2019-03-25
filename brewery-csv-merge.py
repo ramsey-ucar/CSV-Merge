@@ -1,3 +1,7 @@
+# acquired from https://pythonhosted.org/brewery/examples/merge_multiple_files.html
+# discovered brewery is no longer being maintained
+@author: Stefan Urbanek
+
 import brewery
 from brewery import ds
 import sys
